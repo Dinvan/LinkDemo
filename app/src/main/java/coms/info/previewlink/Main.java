@@ -1,4 +1,4 @@
-package com.leocardz.link.preview;
+package coms.info.previewlink;
 
 import android.app.Activity;
 import android.content.Context;
@@ -25,6 +25,7 @@ import android.widget.TextView.OnEditorActionListener;
 
 import com.koushikdutta.urlimageviewhelper.UrlImageViewCallback;
 import com.koushikdutta.urlimageviewhelper.UrlImageViewHelper;
+import com.leocardz.link.preview.R;
 import com.leocardz.link.preview.library.LinkPreviewCallback;
 import com.leocardz.link.preview.library.SourceContent;
 import com.leocardz.link.preview.library.TextCrawler;
